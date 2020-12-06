@@ -1,5 +1,5 @@
 # Zimnat_Insurance_top-12
-My solution for #9 in privat leaderboard. Score=0.0260809843625832
+My solution for #12 in privat leaderboard. Score=0.0260809843625832
 
 
 1. Run Zimnat-lgb_best_score.ipynb. It contains lightgbm and xgboost models with some preprocessing.
